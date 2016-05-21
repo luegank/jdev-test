@@ -8,5 +8,6 @@ public class Main {
 		ApplicationContext ac = new ClassPathXmlApplicationContext("test/bean.xml");
 		Newme nm =  ac.getBean("nm",Newme.class);
 		nm.Hello();
+		
 	}
 }
