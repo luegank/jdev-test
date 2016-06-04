@@ -64,5 +64,6 @@
 	<classpathentry kind="lib" path="F:/workSpace/java/spring-framework-4.2.2.RELEASE/libs/spring-websocket-4.2.2.RELEASE-javadoc.jar"/>
 	<classpathentry kind="lib" path="F:/workSpace/java/spring-framework-4.2.2.RELEASE/libs/spring-websocket-4.2.2.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="F:/workSpace/java/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="var" path="spring libraries"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
